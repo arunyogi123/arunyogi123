@@ -12,7 +12,7 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunyogi123&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
     </td>
     <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com?user=arunyogi123&theme=dark&hide_border=true&card_width=520&cb=20260925" alt="GitHub Streak Stats" width="100%" />
+      <img src="https://streak-stats.demolab.com?user=arunyogi123&theme=dark&hide_border=true&card_width=560&cb=20260925" alt="GitHub Streak Stats" width="100%" />
     </td>
   </tr>
 </table>
@@ -21,6 +21,6 @@
 
 | Core & Frontend | Backend & Databases | Cloud & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,js,nextjs,react,bootstrap,tailwind" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,php,java" alt="Backend Stack" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /> | <img src="https://skillicons.dev/icons?i=vercel,docker,github,git,postman,figma" alt="Tools & DevOps" /> |
+| <img src="https://skillicons.dev/icons?i=html,js,nextjs,react,bootstrap,tailwind" alt="Frontend Stack" width="220" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,php,java" alt="Backend Stack" width="220" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="32" height="32" alt="Oracle" /> | <img src="https://skillicons.dev/icons?i=vercel,docker,github,git,postman,figma" alt="Tools & DevOps" width="220" /> |
 
 </div>
