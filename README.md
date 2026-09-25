@@ -6,11 +6,16 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunyogi123&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=arunyogi123&theme=dark&hide_border=true&card_width=700" alt="GitHub Streak Stats" width="100%" />
+<table border="0" cellpadding="10" cellspacing="0" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunyogi123&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="100%" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com?user=arunyogi123&theme=dark&hide_border=true" alt="GitHub Streak Stats" width="100%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
