@@ -10,7 +10,7 @@
   <tr>
     <td align="center" width="50%">
     <img
-  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arunyogi123&layout=donut&theme=dark&hide_border=true&langs_count=6&card_width=500"
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arunyogi123&layout=donut&theme=dark&hide_border=true&langs_count=6&card_width=400"
   alt="Top Languages"
   width="100%"
 />
