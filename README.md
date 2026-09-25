@@ -9,7 +9,11 @@
 <table border="0" cellpadding="2" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunyogi123&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="100%" />
+     <img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunyogi123&layout=compact&theme=dark&hide_border=true&langs_count=8"
+  alt="Top Languages"
+  width="100%"
+/>
     </td>
     <td align="center" width="50%">
       <img src="https://streak-stats.demolab.com?user=arunyogi123&theme=dark&hide_border=true&card_width=560&cb=20260925" alt="GitHub Streak Stats" width="100%" />
