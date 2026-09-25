@@ -21,6 +21,6 @@
 
 | Core & Frontend | Backend & Databases | Cloud & Tools |
 | :---: | :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=html,js,nextjs,react,bootstrap,tailwind" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres" alt="Backend Stack" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /> | <img src="https://skillicons.dev/icons?i=vercel,docker,github,git,postman" alt="Tools & DevOps" /> |
+| <img src="https://skillicons.dev/icons?i=html,js,nextjs,react,bootstrap,tailwind" alt="Frontend Stack" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,php,java" alt="Backend Stack" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="48" height="48" alt="Oracle" /> | <img src="https://skillicons.dev/icons?i=vercel,docker,github,git,postman,figma" alt="Tools & DevOps" /> |
 
 </div>
