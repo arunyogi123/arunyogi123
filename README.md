@@ -9,8 +9,8 @@
 <table border="0" cellpadding="2" cellspacing="0" width="100%">
   <tr>
     <td align="center" width="50%">
-     <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=arunyogi123&layout=donut&theme=dark&hide_border=true&langs_count=6&card_width=400"
+    <img
+  src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arunyogi123&layout=donut&theme=dark&hide_border=true&langs_count=6&card_width=400"
   alt="Top Languages"
   width="100%"
 />
