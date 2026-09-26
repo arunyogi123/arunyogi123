@@ -1,5 +1,8 @@
 name: Update Streak Badge
 
+permissions:
+  contents: write
+
 on:
   schedule:
     - cron: '0 0 * * *'
