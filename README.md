@@ -28,4 +28,4 @@
 | <img src="https://skillicons.dev/icons?i=html,js,nextjs,react,bootstrap,tailwind" alt="Frontend Stack" width="240" /> | <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres,php,java" alt="Backend Stack" width="240" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="32" height="32" alt="Oracle" /> | <img src="https://skillicons.dev/icons?i=vercel,docker,github,git,postman,figma" alt="Tools & DevOps" width="240" /> |
 
 </div>
-like here dont change anything just in that core and frontend logo remove react ,nectjs and bootstrap and add typesrcipt and also remove otacle from backend
+
